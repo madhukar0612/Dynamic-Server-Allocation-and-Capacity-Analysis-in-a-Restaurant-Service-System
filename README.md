@@ -11,3 +11,9 @@ Evaluated the impact of server reallocation on customer wait times for pizzas an
 Achieved minimal sojourn and waiting times under moderate load conditions (50%-75%) by dynamically rebalancing server assignments.
 Identified system limitations and proposed strategies for improved scalability under high-demand scenarios (83% load).
 4. Quantitative Insights: Analyzed performance metrics such as load factor (ρ), average sojourn times, and server utilization to guide decision-making for future restaurant capacity planning
+# Tools & Technologies Used:
+1. Programming: MATLAB (for simulation and modeling).
+2. Queuing Theory: Applied M/M/c queuing models with dynamic server reallocation for real-time load balancing.
+3. Data Analysis: Evaluated statistical measures such as sojourn times, waiting times, and load factors to assess system efficiency.
+# Impact:
+The project demonstrated how dynamic server reallocation can significantly improve customer service efficiency in a restaurant setting. The findings provide actionable insights for optimizing staffing and reducing bottlenecks, ensuring smooth operations even during peak demand periods.
