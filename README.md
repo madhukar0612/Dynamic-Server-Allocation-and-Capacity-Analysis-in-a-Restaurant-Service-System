@@ -1,1 +1,3 @@
 # Dynamic-Server-Allocation-and-Capacity-Analysis-in-a-Restaurant-Service-System
+# Project Summary
+Developed and implemented a simulation-based project to optimize restaurant service efficiency through dynamic server allocation. This project focused on enhancing customer experience by minimizing waiting times and balancing server workloads across three primary product categories: pizzas, dishes (main courses), and drinks. Leveraged a Flexible M/M/c Queuing System with Poisson arrival processes and exponential service times to simulate real-world demand scenarios and evaluate system performance under varying load conditions.
